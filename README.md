@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @xo-la
-- 👀 I’m interested in machine learning and AI 
-- 🌱 I’m currently learning how to deploy ml, projects to production 
-- 💞️ I’m looking to collaborate on any machine learning projects from predictions to computer vision 
+- 💡 phython 
+- 🌱 check out my chatbot for womens health 
+- 💞️ scraping data frim a webpage on womens health 
 - 📫 How to reach me e-mail: adefehintioluwole6@gmail.com 
 
 <!---
