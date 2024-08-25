@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @xo-la
-- 💡 phython 
-- 🌱 check out my chatbot for womens health 
-- 💞️ scraping data frim a webpage on womens health 
+- 👋 Hi, I’m Olusola 
+- 💡 SQl,Phython,Tensorflow,keras
+- 🌱 view projects and contribute 
+- 💞️ computer vision 
 - 📫 How to reach me e-mail: adefehintioluwole6@gmail.com 
 
 <!---
